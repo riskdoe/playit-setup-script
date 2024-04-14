@@ -11,7 +11,7 @@ Even if you don't want it as a service, this script automates installation and e
 ### Debian/Ubuntu, Raspberry Pi (Raspbian)
 The script doesn't need to be run as root, it will elevate permissions when it needs to.
 ```bash
-bash <(curl -sS https://raw.githubusercontent.com/aBoredDev/playit-setup-script/main/playit-setup.sh))
+bash <(curl -sS https://raw.githubusercontent.com/riskdoe/playit-setup-script/main/playit-setup.sh))
 ```
 And that's it!
 
